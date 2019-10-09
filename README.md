@@ -2,6 +2,8 @@
 
 El proyecto consiste en realizar un circuito con una luz que pueda ser encendida o apagada desde un teléfono móvil de forma inalámbrica mediante Bluetooth. La aplicación del teléfono la creamos con [App Inventor](https://appinventor.mit.edu).
 
+![](images/interruptor.gif)
+
 Es recomendable tener conocimientos previos básicos de App Inventor y de programación en Arduino IDE.
 
 ## Materiales.
